@@ -1,0 +1,44 @@
+# Node modules
+/node_modules
+
+# Environment variables
+/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Debug
+debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# IDE folders
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# Coverage directory used by tests
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# MongoDB dump files
+dump/
+
+# Next.js build output (if any)
+.next/
+
+# Miscellaneous
+*.local
+.env.local
+.env.*.local
